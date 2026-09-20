@@ -1,4 +1,8 @@
-# NeuronAI v2.1: A Biophysical Neural Mass Model for Personalized Pharmacological Simulation
+# NeuronAI v1.0
+
+[![DOI](https://zenodo.org/badge/1377715284.svg)](https://doi.org/10.5281/zenodo.22851741)
+
+A Biophysical Neural Mass Model for Personalized Pharmacological Simulation
 
 ## Description
 NeuronAI is a Python framework that combines an extended biophysical neural mass model of EEG dynamics with an artificial intelligence system. It predicts personalized pharmacological modulations to transform a pathological EEG (e.g., from an ASD subject) into a reference state (e.g., from a typically developing subject).
