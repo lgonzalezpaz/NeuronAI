@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""NeuronAI v1.0
+"""NeuronAI v1.0.1
 
 A biophysical neural mass model of EEG dynamics incorporating glutamatergic
 and neuromodulatory mechanisms for personalized pharmacological simulation.
