@@ -2,8 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/1377715284.svg)](https://doi.org/10.5281/zenodo.22851741)
 
-A biophysical neural-mass model of EEG dynamics for personalized pharmacological
-simulation in autism spectrum disorder.
+A biophysical neural-mass model of EEG dynamics for personalized pharmacological simulation in silico.
 
 ---
 
