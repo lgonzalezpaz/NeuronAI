@@ -1,4 +1,4 @@
-# NeuronAI v1.0
+# NeuronAI 
 
 [![DOI](https://zenodo.org/badge/1377715284.svg)](https://doi.org/10.5281/zenodo.22851741)
 
