@@ -18,8 +18,17 @@ The model integrates:
 - Validated through a seven-level protocol (static analysis, unit testing, property-based testing, coverage, contracts, mutation testing, and fuzz testing).
 
 ## Installation
+
 You can run the code directly in Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/NeuronAI/blob/main/NeuronAI_v2.1.ipynb)
+
+**Current version (v1.0.2):**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lgonzalezpaz/NeuronAI/blob/main/NeuronAI_v1.0.2.ipynb)
+
+**Previous version (v1.0.1):**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lgonzalezpaz/NeuronAI/blob/main/NeuronAI_v1.0.1.ipynb)
+
 
 Version 1.0.2 introduces three specific changes that improve robustness across atypical subjects. All original functionalities of version 1.0.1 are preserved.
 
