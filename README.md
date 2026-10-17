@@ -10,7 +10,7 @@ that recording. It accompanies the article:
 > Pérez-Castillo Y, Delgado A, González-Paz L. *NeuronAI: biophysical EEG digital twins and
 > simulation-based inference for personalised in silico neuropharmacology in autism* (submitted).
 
-[![DOI](https://doi.org/10.5281/zenodo.22851741)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lgonzalezpaz/NeuronAI/blob/main/notebooks/NeuronAI_v2_Colab.ipynb)
 License: MIT
 
