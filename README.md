@@ -12,7 +12,7 @@ that recording. It accompanies the article:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22851741.svg)](https://doi.org/10.5281/zenodo.22851741)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lgonzalezpaz/NeuronAI/blob/main/NeuronAI_v2_Colab.ipynb)
-License: MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
