@@ -1,9 +1,0 @@
-numpy>=1.24
-scipy>=1.10
-scikit-learn>=1.3
-pandas>=2.0
-matplotlib>=3.7
-# optional
-mne>=1.5        # alternative EEG readers (.set/.edf/.vhdr ...); not needed for GDF 1.x
-h5py>=3.8       # only for MATLAB v7.3 .set files
-pytest>=7.0     # to run the test suite
