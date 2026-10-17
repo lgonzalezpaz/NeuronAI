@@ -1,0 +1,80 @@
+{
+  "title": "NeuronAI v2.0: biophysical EEG digital twins with simulation-based inference for in silico pharmacology",
+  "upload_type": "software",
+  "version": "2.0.0",
+  "license": "MIT",
+  "access_right": "open",
+  "description": "Reproducible code, trained models, simulation banks and derived results accompanying the article 'NeuronAI: biophysical EEG digital twins and simulation-based inference for personalised in silico neuropharmacology in autism'. Includes a 17-column extended Wendling neural mass model with AMPA/NMDA-GluN2A/GluN2B transmission and dopaminergic, serotonergic and noradrenergic gain control, amortised simulation-based inference with conformal uncertainty, a forward emulator, a sparse in silico pharmacological search, validation scripts, a test suite and a Google Colab version.",
+  "keywords": [
+    "neural mass model",
+    "EEG",
+    "digital twin",
+    "simulation-based inference",
+    "conformal prediction",
+    "autism spectrum disorder",
+    "computational pharmacology"
+  ],
+  "creators": [
+    {
+      "name": "Alvarado, Ysaías J.",
+      "affiliation": "Instituto Venezolano de Investigaciones Científicas (IVIC)",
+      "orcid": "0000-0002-2709-409X"
+    },
+    {
+      "name": "Quintero, Máximo",
+      "affiliation": "Servicio Autónomo Hospital Universitario de Maracaibo; Universidad del Zulia"
+    },
+    {
+      "name": "Cardozo-Urdaneta, Arlene",
+      "affiliation": "Instituto Venezolano de Investigaciones Científicas (IVIC)",
+      "orcid": "0009-0009-7400-2950"
+    },
+    {
+      "name": "Lossada, Carla",
+      "affiliation": "Instituto Venezolano de Investigaciones Científicas (IVIC)",
+      "orcid": "0000-0003-3346-7101"
+    },
+    {
+      "name": "Marrero-Ponce, Yovani",
+      "affiliation": "Universidad Panamericana; Universidad San Francisco de Quito",
+      "orcid": "0000-0003-2721-1142"
+    },
+    {
+      "name": "Martinez-Rios, Félix",
+      "affiliation": "Universidad Panamericana",
+      "orcid": "0000-0002-2346-5922"
+    },
+    {
+      "name": "Pérez-Castillo, Yunierkis",
+      "affiliation": "Universidad de las Américas",
+      "orcid": "0000-0002-3710-0035"
+    },
+    {
+      "name": "Delgado, Ariana",
+      "affiliation": "Instituto Venezolano de Investigaciones Científicas (IVIC)",
+      "orcid": "0000-0003-2426-779X"
+    },
+    {
+      "name": "González-Paz, Lenin",
+      "affiliation": "Instituto Venezolano de Investigaciones Científicas (IVIC)",
+      "orcid": "0000-0003-0023-7342"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.17632/spwnt8t25y.1",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.17632/7zf99hxxc9.1",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.1016/j.dib.2023.109057",
+      "relation": "references",
+      "resource_type": "publication-article"
+    }
+  ]
+}
